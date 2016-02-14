@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: red;
+}
+#main-header {
+	background-color:rgb(red);
+	margin-button: 30px;
+	min-height: 100px;
+}
+.Wrapper {
+	width: 1024px;
+	margin: 0 auto;
+}
+#main-section {
+	background-color: #ffffff;
+	float: left;
+	width: 60%;
+	padding: 30px;
+}
